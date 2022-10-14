@@ -1,3 +1,4 @@
+#esta versión se subirá a git hub
 import random
 import math
 #from re import I
