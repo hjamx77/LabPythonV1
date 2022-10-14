@@ -1,3 +1,4 @@
+#Comentario hecho desde hub informando que esta pinche
 def palindromo(palabra):
     palabra=palabra.replace(" ","")
     palabra=palabra.lower()
